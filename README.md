@@ -1,2 +1,3 @@
 # PowerShell-Configs
-Profile and powershell configurations - ohmyposh
+A better windows terminal
+<img src="./posh.png">
